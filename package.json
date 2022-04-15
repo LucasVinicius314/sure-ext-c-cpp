@@ -3,6 +3,10 @@
   "displayName": "Sure Ext C/C++",
   "description": "Description",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasVinicius314/sure-ext-c-cpp.git"
+  },
   "engines": {
     "vscode": "^1.66.0"
   },

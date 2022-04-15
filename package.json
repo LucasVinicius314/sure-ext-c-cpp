@@ -1,0 +1,16 @@
+{
+  "name": "sure-ext-c-cpp",
+  "displayName": "Sure Ext C/C++",
+  "description": "Description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vsciot-vscode.vscode-arduino",
+    "ms-vscode.cpptools-extension-pack"
+  ]
+}
